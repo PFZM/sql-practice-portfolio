@@ -35,4 +35,4 @@ order_date,
 order_amount,
 SUM(order_amount)OVER(partition by customer_id ORDER BY order_date) as running_total
 FROM orders 
-order by customer_id, order_date 
+order by customer_id, order_date; 
