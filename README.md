@@ -39,12 +39,12 @@ The SQL examples here include:
 - Mixing window functions, joins, and aggregation
 - Realistic transformations similar to BI and Data Engineering tasks
 
-### Recursive CTEs (later additions)
+### Recursive CTEs
 
 - Parent–child hierarchies
 - Multi-level organizational or category structures
 
-### Pattern Recognition (later additions)
+### Pattern Recognition
 
 - LAG/LEAD analysis
 - Detecting consecutive values and streaks
